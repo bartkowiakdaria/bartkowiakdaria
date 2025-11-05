@@ -36,5 +36,5 @@ Here are some of my projects (more coming soon!):
 
 ## 🌟 Let’s Connect!  
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daria-bartkowiak-16742b391/)  
+💼 [LinkedIn](https://www.linkedin.com/in/daria-bartkowiak-16742b391/)
 📧 Email: bartdariakowiak@gmail.com  
