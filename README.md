@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
 ☀️ I'm Daria.
+
 🎓 I'm a **third-year Data Engineering and Analysis student** at the **Warsaw University of Technology (Faculty of Mathematics and Information Science)**.  
 💻 I enjoy **programming**, exploring **algorithms**, and diving into the world of **machine learning**.  
 
