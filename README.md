@@ -28,6 +28,7 @@ Here are some of my projects (more coming soon!):
 
 - [Machine Learning](https://github.com/bartkowiakdaria/MachineLearning)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
+- [Introduction to AI](https://github.com/bartkowiakdaria/WSI)
 - [Data Visualization](https://github.com/bartkowiakdaria/DataVisualization)  
 - [Numerical Methods](https://github.com/bartkowiakdaria/Numerical-Methods)  
 
@@ -36,4 +37,4 @@ Here are some of my projects (more coming soon!):
 ## 🌟 Let’s Connect!  
 
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 Email: *your.email@example.com*  
+📧 Email: bartdariakowiak@gmail.com  
