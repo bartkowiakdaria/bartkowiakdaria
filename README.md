@@ -27,8 +27,8 @@ I'm Daria. I'm a **third-year Data Engineering and Analysis student** at the **W
 Here are some of my projects (more coming soon!):  
 
 - [Machine Learning](https://github.com/bartkowiakdaria/MachineLearning)  
-- [Project 2 – *add your repo name here*](https://github.com/yourusername/project2)  
-- [Project 3 – *add your repo name here*](https://github.com/yourusername/project3)
+- [Data Visualization](https://github.com/bartkowiakdaria/DataVisualization)  
+- [Numerical Methods](https://github.com/bartkowiakdaria/Numerical-Methods)  
 
 ---
 
