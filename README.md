@@ -1,14 +1,14 @@
 # 👋 Hi there!
 
-I'm Daria. I'm a **third-year Data Engineering and Analysis student** at the **Warsaw University of Technology (Faculty of Mathematics and Information Science)**. I enjoy **programming**, exploring **algorithms**, and diving into the world of **machine learning**.  
+I'm Daria. I'm a **third-year Data Engineering and Analysis student** at the **Warsaw University of Technology (Faculty of Mathematics and Information Science)**. I enjoy **programming** and explore **machine learning**.  
 
 ---
 
 ## ☀️ About Me  
 
-- Passionate about data, AI, and solving complex problems  
+- I learn how to manage data and solve complex problems  
 - Curious learner who enjoys connecting theory with real-world applications  
-- Currently expanding my knowledge in deep learning and data visualization  
+- Currently expanding my knowledge in deep learning  
 
 ---
 
@@ -24,7 +24,7 @@ I'm Daria. I'm a **third-year Data Engineering and Analysis student** at the **W
 
 ## 🚀 Projects  
 
-Here are some of my projects (more coming soon!):  
+Here are some of my projects:  
 
 - [Machine Learning](https://github.com/bartkowiakdaria/MachineLearning)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
